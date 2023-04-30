@@ -16,7 +16,7 @@
   "author": "goodhousekeeper",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-clean-css": "*",
     "gulp-concat": "*",
     "gulp-less": "*",
